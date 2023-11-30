@@ -43716,7 +43716,7 @@ p=a.fx
 p=J.da(p.gm(p))
 e=a.fr
 d=J.da(e.gm(e))
-if(J.d(e.gm(e),"Quiz1")){c=a.go
+if(J.d(e.gm(e),"Quiz1")||J.d(e.gm(e),"Quiz3")){c=a.go
 c=c.gm(c)}else c=o
 b=t.s
 e=J.d(e.gm(e),"Quiz2")?A.a([n,m,l,k],b):A.a([j,i,h,g],b)
